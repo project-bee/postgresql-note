@@ -6,7 +6,7 @@
 
 默认安装位置及配置：
 
-```
+```plain
 Installation Directory: C:\Program Files\PostgreSQL\10
 Server Installation Directory: C:\Program Files\PostgreSQL\10
 Data Directory: C:\Program Files\PostgreSQL\10\data
@@ -21,9 +21,9 @@ Stack Builder Installation Directory: C:\Program Files\PostgreSQL\10
 
 ### MacOS
 
-**安装前注意事项**
+**安装前注意事项:**
 
-```
+```plain
 PostgreSQL One Click Installer README
 =====================================
 
