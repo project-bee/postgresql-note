@@ -79,3 +79,18 @@ For help with the packages within the installer, please visit the packages
 website.
 ```
 
+默认安装位置及配置：
+
+```plain
+Installation Directory: /Library/PostgreSQL/10
+Server Installation Directory: /Library/PostgreSQL/10
+Data Directory: /Library/PostgreSQL/10/data
+Database Port: 5432
+Database Superuser: postgres
+Operating System Account: postgres
+Database Service: postgresql-10
+Command Line Tools Installation Directory: /Library/PostgreSQL/10
+pgAdmin4 Installation Directory: /Library/PostgreSQL/10/pgAdmin 4
+Stack Builder Installation Directory: /Library/PostgreSQL/10
+
+```
